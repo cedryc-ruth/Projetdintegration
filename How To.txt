@@ -1,0 +1,6 @@
+# Projet développé par :
+# - Anne-Gaëlle Julien
+# - Florent Marcel
+# - Patrice verstichel
+
+Installation Visual Studio Code : https://code.visualstudio.com/Download
