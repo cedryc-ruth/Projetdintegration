@@ -2,4 +2,12 @@ Dans GitHub nous n'avons pas réussit à activer Fork car nous ne faisons pas pa
 
 D'abord faire un fork du projet de groupe
 Puis cloner le fork de son compte pour avoir une copie en local
+- Modifier le projet
+- Versionner : add, commit 
+- Publier sur le serveur origin => push
+
+//Pull request => merge GitHub
+
+- Ajouter le serveur upstream
+- Récupérer tous les changements du serveur => pull
 => Merci
