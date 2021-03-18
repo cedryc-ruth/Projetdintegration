@@ -2,6 +2,7 @@ Dans GitHub nous n'avons pas réussit à activer Fork car nous ne faisons pas pa
 
 D'abord faire un fork du projet de groupe
 Puis cloner le fork de son compte pour avoir une copie en local
+
 - Modifier le projet
 - Versionner : add, commit 
 - Publier sur le serveur origin => push
@@ -18,3 +19,4 @@ Comment créer une branche ?
 - git checkout -b nomDeLaBranche
 
 => Merci
+=> De rien
