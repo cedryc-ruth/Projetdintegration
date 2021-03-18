@@ -10,4 +10,11 @@ Puis cloner le fork de son compte pour avoir une copie en local
 
 - Ajouter le serveur upstream
 - Récupérer tous les changements du serveur => pull
+
+Comment créer une branche ?
+- git branch nomDeLaBranche
+- git checkout nomDeLaBranche
+
+- git checkout -b nomDeLaBranche
+
 => Merci
