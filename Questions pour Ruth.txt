@@ -1,1 +1,4 @@
 Dans GitHub nous n'avons pas réussit à activer Fork car nous ne faisons pas partie d'une organisaion.
+
+D'abord faire un fork du projet de groupe
+Puis cloner le fork de son compte pour avoir une copie en local
